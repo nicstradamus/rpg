@@ -10,3 +10,6 @@ C:\Users\Zidane\Documents\Visual Studio 2015\Projects\RPG\CSharpTraining\obj\Deb
 C:\Users\Zidane\Documents\Visual Studio 2015\Projects\RPG\CSharpTraining\bin\Debug\CSharpTraining.exe
 C:\Users\Zidane\Documents\Visual Studio 2015\Projects\RPG\CSharpTraining\bin\Debug\CSharpTraining.pdb
 C:\Users\Zidane\Documents\Visual Studio 2015\Projects\RPG\CSharpTraining\obj\Debug\FighterMage.csprojResolveAssemblyReference.cache
+C:\dev\Git\RPG\CSharpTraining\bin\Debug\CSharpTraining.exe.config
+C:\dev\Git\RPG\CSharpTraining\obj\Debug\CSharpTraining.exe
+C:\dev\Git\RPG\CSharpTraining\obj\Debug\CSharpTraining.pdb
