@@ -1,0 +1,12 @@
+C:\Users\Zidane\Documents\Visual Studio 2015\Projects\CSharpTraining\CSharpTraining\bin\Debug\CSharpTraining.exe.config
+C:\Users\Zidane\Documents\Visual Studio 2015\Projects\CSharpTraining\CSharpTraining\bin\Debug\CSharpTraining.exe
+C:\Users\Zidane\Documents\Visual Studio 2015\Projects\CSharpTraining\CSharpTraining\bin\Debug\CSharpTraining.pdb
+C:\Users\Zidane\Documents\Visual Studio 2015\Projects\CSharpTraining\CSharpTraining\obj\Debug\CSharpTraining.exe
+C:\Users\Zidane\Documents\Visual Studio 2015\Projects\CSharpTraining\CSharpTraining\obj\Debug\CSharpTraining.pdb
+C:\Users\Zidane\Documents\Visual Studio 2015\Projects\CSharpTraining\CSharpTraining\obj\Debug\FighterMage.csprojResolveAssemblyReference.cache
+C:\Users\Zidane\Documents\Visual Studio 2015\Projects\RPG\CSharpTraining\bin\Debug\CSharpTraining.exe.config
+C:\Users\Zidane\Documents\Visual Studio 2015\Projects\RPG\CSharpTraining\obj\Debug\CSharpTraining.exe
+C:\Users\Zidane\Documents\Visual Studio 2015\Projects\RPG\CSharpTraining\obj\Debug\CSharpTraining.pdb
+C:\Users\Zidane\Documents\Visual Studio 2015\Projects\RPG\CSharpTraining\bin\Debug\CSharpTraining.exe
+C:\Users\Zidane\Documents\Visual Studio 2015\Projects\RPG\CSharpTraining\bin\Debug\CSharpTraining.pdb
+C:\Users\Zidane\Documents\Visual Studio 2015\Projects\RPG\CSharpTraining\obj\Debug\FighterMage.csprojResolveAssemblyReference.cache

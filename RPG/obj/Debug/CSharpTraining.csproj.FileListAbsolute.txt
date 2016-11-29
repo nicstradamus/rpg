@@ -1,0 +1,6 @@
+c:\users\zidane\documents\visual studio 2015\Projects\CSharpTraining\CSharpTraining\bin\Debug\CSharpTraining.exe.config
+c:\users\zidane\documents\visual studio 2015\Projects\CSharpTraining\CSharpTraining\bin\Debug\CSharpTraining.exe
+c:\users\zidane\documents\visual studio 2015\Projects\CSharpTraining\CSharpTraining\bin\Debug\CSharpTraining.pdb
+c:\users\zidane\documents\visual studio 2015\Projects\CSharpTraining\CSharpTraining\obj\Debug\CSharpTraining.csprojResolveAssemblyReference.cache
+c:\users\zidane\documents\visual studio 2015\Projects\CSharpTraining\CSharpTraining\obj\Debug\CSharpTraining.exe
+c:\users\zidane\documents\visual studio 2015\Projects\CSharpTraining\CSharpTraining\obj\Debug\CSharpTraining.pdb
